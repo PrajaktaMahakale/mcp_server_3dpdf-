@@ -22,10 +22,11 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-
+src\config.firebase.js
 
 # Firebase / Google credentials
 mcp-server/config/firebase-service-account.json
+
 
 # Environment files
 .env
